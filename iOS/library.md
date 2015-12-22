@@ -51,3 +51,5 @@
     - 이건 한줄로 scrollView, tableView의 insets을 조정해주니 좋긴 한데 다른것도 같이 바꿔야되면 애매함
   - [UnderKeyboard](https://github.com/marketplacer/UnderKeyboard)
     - 뷰의 크기를 바꾸는거라 다른것들에 비해 별로지만 쓸데가 있을듯
+  - [DDKeyboardObserver](https://github.com/openboy2012/DDKeyboardObserver)
+    - 사용방법이 마음에 든다. 다음에 이런식으로 사용하면 될듯
