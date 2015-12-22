@@ -47,4 +47,5 @@
   - 비슷한 역할을 하는 [SemanticVersioning](https://github.com/AlexanderNey/SemanticVersioning)
 - [KeyboardObserver](https://github.com/morizotter/KeyboardObserver)
   - 키보드 보임/안보인 이벤트를 쉽게 처리 할 수 있다
-
+  - [SingleLineKeyboardResize](https://github.com/haaakon/SingleLineKeyboardResize)
+    - 이건 한줄로 scrollView, tableView의 insets을 조정해주니 좋긴 한데 다른것도 같이 바꿔야되면 애매함
