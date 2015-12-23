@@ -53,3 +53,8 @@
     - 뷰의 크기를 바꾸는거라 다른것들에 비해 별로지만 쓸데가 있을듯
   - [DDKeyboardObserver](https://github.com/openboy2012/DDKeyboardObserver)
     - 사용방법이 마음에 든다. 다음에 이런식으로 사용하면 될듯
+
+## 신기한거
+
+- [KKVerticalText](https://github.com/anthony1618/KKVerticalText)
+  - 세로쓰기가 되는 라이브러리. 신기하다. iOS 8만 지원된다고 적혀있음
