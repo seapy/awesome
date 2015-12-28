@@ -40,6 +40,43 @@
 - [ios-charts](https://github.com/danielgindi/ios-charts)
   - iOS 에서 차트를 그릴수 있다. MPAndroidChart 를 따라가는듯
 
+## 재미 있는 애니메이션
+
+- [UIViewXXYBoom](https://github.com/xxycode/UIViewXXYBoom)
+  - 뷰가 재미있게 없어지는 애니메이션 ~
+  - ![UIViewXXYBoom](https://github.com/seapy/awesome/raw/master/iOS/assets/UIViewXXYBoom.gif)
+
+## UILabel
+
+- [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel)
+  - UILabel에 텍스트를 변경할때 재미있게 변경된다. UILabel에 확장은 아니고 상속받아서 구현한거
+  - ![LTMorphingLabel](https://github.com/seapy/awesome/raw/master/iOS/assets/LTMorphingLabel.gif)
+  
+## Navigation
+
+- [RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation)
+  - UINavigationBar를 좀더 이쁘게 표현. 완성도가 괜찮아 보인다. 
+  - ![RainbowNavigation](https://github.com/seapy/awesome/raw/master/iOS/assets/RainbowNavigation.gif)
+
+## String
+
+- [BonMot](https://github.com/Raizlabs/BonMot)
+  - attributed string 을 만들기 편하게 해준다. 
+- [Regex](https://github.com/sharplet/Regex)
+  - swift 정규식 매칭 쉽게
+
+## AutoLayout
+
+- [SnapKit](https://github.com/SnapKit/SnapKit)
+  - 오토 레이아웃을 DSL로 쉽게 설정
+- [Cartography](https://github.com/robb/Cartography)
+  - - 오토 레이아웃을 쉽게 설정
+
+## ActionSheet
+
+- [XLActionController](https://github.com/xmartlabs/XLActionController)
+  - 커스텀 ActionSheet
+
 ## Non UI 유틸리티
 
 - [AppVersionMonitor](https://github.com/muukii/AppVersionMonitor)
@@ -55,13 +92,28 @@
     - 사용방법이 마음에 든다. 다음에 이런식으로 사용하면 될듯
 - [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults)
   - NSUserDefaults를 쉽게 쓰게 하는 라이브러리. 비슷한것들이 많긴 한데 swift 에서는 이거인듯?
+- [PermissionScope](https://github.com/nickoneill/PermissionScope)
+  - OS에 사용자 권한이 필요한 경우 사용자에게 현황과 권한을 얻는것을 관리
 
 ## 지역화
 
 - [Hordor](https://github.com/Aufree/Hodor)
   - 어플리케이션의 언어별 설정을 앱 안에서 변경 가능한 라이브러리. 위챗이 이런식인가보다.
+- [Laurine](https://github.com/JiriTrecak/Laurine)
+  - 지역화 파일을 만들고 나서 문자열 관리하기 귀찮은데 이거는 문자열이 아니라 코드로 사용할 수 있다. 자동완성도 되고 오타의 위험도 없고 좋다!
 
 ## 신기한거
 
 - [KKVerticalText](https://github.com/anthony1618/KKVerticalText)
   - 세로쓰기가 되는 라이브러리. 신기하다. iOS 8만 지원된다고 적혀있음
+
+## 개발도구
+
+- [Rainbow](https://github.com/onevcat/Rainbow)
+  - swift 결과창에 텍스트에 색상을 표현
+- [SwiftLint](https://github.com/realm/SwiftLint)
+  - github swift style을 기준으로 CLI, Xcode에서 스타일을 맞췄는지 확인
+- [Crayons](https://github.com/Sephiroth87/Crayons)
+  - 코드에서 만들 색상을 IB 색상표에서도 볼수 있어서 좋긴 한데 사용법이 친절하지가 않아서 아직 이해를 못함 ㅜㅜ
+- [SwiftGen](https://github.com/AliSoftware/SwiftGen)
+  - 지역화 파일, UIImage, Storyboard 등을 자동으로 enum으로 만들어 줘서 코드 자동완성도 돕고 그런거
