@@ -53,6 +53,8 @@
     - 뷰의 크기를 바꾸는거라 다른것들에 비해 별로지만 쓸데가 있을듯
   - [DDKeyboardObserver](https://github.com/openboy2012/DDKeyboardObserver)
     - 사용방법이 마음에 든다. 다음에 이런식으로 사용하면 될듯
+- [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults)
+  - NSUserDefaults를 쉽게 쓰게 하는 라이브러리. 비슷한것들이 많긴 한데 swift 에서는 이거인듯?
 
 ## 지역화
 
