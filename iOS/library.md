@@ -54,6 +54,11 @@
   - [DDKeyboardObserver](https://github.com/openboy2012/DDKeyboardObserver)
     - 사용방법이 마음에 든다. 다음에 이런식으로 사용하면 될듯
 
+## 지역화
+
+- [Hordor](https://github.com/Aufree/Hodor)
+  - 어플리케이션의 언어별 설정을 앱 안에서 변경 가능한 라이브러리. 위챗이 이런식인가보다.
+
 ## 신기한거
 
 - [KKVerticalText](https://github.com/anthony1618/KKVerticalText)
