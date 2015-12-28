@@ -5,6 +5,11 @@
 - [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education)
   - 자료가 너무 많네;;
 
+## StackView
+
+- [StackView 동작 방식 그림 설명(일본어)](http://qiita.com/yucovin/items/ff58fcbd60ca81de77cb)
+  - StackView의 속성에 따른 뷰 배치를 그림으로 잘 설명했다
+
 ## 오픈소스 앱
 
 - [focus](https://github.com/mozilla/focus)

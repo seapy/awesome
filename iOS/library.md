@@ -95,6 +95,11 @@
 - [PermissionScope](https://github.com/nickoneill/PermissionScope)
   - OS에 사용자 권한이 필요한 경우 사용자에게 현황과 권한을 얻는것을 관리
 
+## 이미지 편집
+
+- [Adobe Creative SDK for ios](http://qiita.com/koitaro/items/e99500cd05adda6fb756)
+  - 이미지 필터, 이미지 자르기, 방향전환, 문자입력 등을 쉽게 해주는 라이브러리. Adobe에 앱을 등록하고 키를 발급 받아야 한다. 제한이 어디까지인지는 모르겠음
+
 ## 지역화
 
 - [Hordor](https://github.com/Aufree/Hodor)
