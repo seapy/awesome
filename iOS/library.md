@@ -46,6 +46,11 @@
   - 뷰가 재미있게 없어지는 애니메이션 ~
   - ![UIViewXXYBoom](https://github.com/seapy/awesome/raw/master/iOS/assets/UIViewXXYBoom.gif)
 
+## UIViewController
+
+- [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)
+  - 좌우 스와이프로 여러개의 뷰 컨트롤러를 사용할 수 있다. 다양한 스타일 지원
+
 ## UILabel
 
 - [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel)
