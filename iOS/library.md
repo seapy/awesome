@@ -51,6 +51,11 @@
 - [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)
   - 좌우 스와이프로 여러개의 뷰 컨트롤러를 사용할 수 있다. 다양한 스타일 지원
 
+## UITableView
+
+- [Shoyu](https://github.com/yukiasai/Shoyu)
+  - UITableView 섹션이나 타입이 여러개일때 귀찮은 분기 코드를 줄여준다. [qiita 글](http://qiita.com/yukiasai/items/50c296599d30dd8de046)
+
 ## UILabel
 
 - [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel)
