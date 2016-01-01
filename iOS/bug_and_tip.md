@@ -28,5 +28,6 @@ import Alamofire
 Alamofire.request(.GET, "https://httpbin.org/get", parameters: ["foo": "bar"])
     .responseJSON { response in
         debugPrint(response.result)
-}
+        XCPlaygroundPage.currentPage.finishExecution() // 비동기 실행이 끝나고 나서 호출해야 한다. 안그러면 계속 돌고 있음
+    }
 ```
