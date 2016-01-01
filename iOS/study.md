@@ -23,3 +23,5 @@
   - thoughtbot에서 만든 날씨앱. ReactiveCocoa 사용. 테스트 코드도 잘 되있을듯
 - [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
   - 소스가 공개된 iOS 앱 모음. 분야별로 나뉘어져 있어서 관련 개발할때 참고하면 도움이 될수도 있겠다.
+- [Filterpedia](https://github.com/FlexMonkey/Filterpedia)
+  - CoreImage로 할수 있는것들 보여주는 앱. 책 만들때 쓰려고 한거라고
