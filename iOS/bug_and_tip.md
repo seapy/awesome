@@ -16,3 +16,17 @@ textView.text = "​\u{200B}\(newText)"
 ## NSNotificationCenter
 
 - iOS 9 부터는 unregister 하지 않아도 된다. 알아서 된다고 @_@ [iOS 9 릴리즈노트](https://developer.apple.com/library/mac/releasenotes/Foundation/RN-Foundation/index.html#10_11NotificationCenter), [이걸 다시 상기시켜준 고마운 트윗](https://twitter.com/sandofsky/status/681740795511177216)
+
+## Playground
+
+- Playground 에서 alamofire 사용
+```swift
+import XCPlayground
+XCPlaygroundPage.currentPage.needsIndefiniteExecution = true // playground 에서 비동기 작업 실행을 위해
+
+import Alamofire
+Alamofire.request(.GET, "https://httpbin.org/get", parameters: ["foo": "bar"])
+    .responseJSON { response in
+        debugPrint(response.result)
+}
+```
