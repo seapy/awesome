@@ -2,6 +2,20 @@
 
 애플이 고쳐주지 않는 버그로 인해 고생하는 개발자들 ㅜㅜ 또 버그는 아니더라도 꼼수들 모음
 
+## Xcode
+
+- 맥의 모든 CPU 자원을 사용해 빌드 속도를 높이자
+  - Fastlane 에서 적용하려면 Gymfile에 다음과 같이 추가
+    - `xcargs "IDEBuildOperationMaxNumberOfConcurrentCompileTasks=`sysctl -n hw.ncpu``
+  - 실제 효과를 확인하려고 activity indicator로 봤을때 xcode에서는 효과를 못봤는데 fastlane으로 beta 빌드할때 보니 CPU를 모두 사용
+    - ![xcode multi core](https://github.com/seapy/awesome/raw/master/iOS/assets/xcode_multi_core.png)
+    - 시작부분에 4개만 살짝 올라온 부분은 설정 적용전에 fastlane으로 alpha 빌드 했을때. 설정후 fastlane alpha 빌드하니 모든 CPU 사용
+    - 실제 시간은 측정안해봤는데 별로 안빨라진것 같기도 하지만 CPU 로드가 다르니 빨라졌을거라고 예상
+  - 이거 보면 iOS 개발자는 CPU 클럭 높고 갯수 많은거 쓸수록 시간단축 효과가 있을듯 ㅋㅋㅋ 맥프로 쓰면 어떨까 궁금 
+  - [Xcode에서 병렬 빌드하는 방법](http://qiita.com/asuuma/items/8c34f12ac99bcd81870c)
+  - [AlexDenisov tweet](https://twitter.com/1101_debian/status/675305084855668738)
+  - [For your interest: command-line xcodebuild does not build concurrently #985](https://github.com/fastlane/fastlane/issues/985)
+
 ## UITextView
 
 - 텍스트를 변경해도 이전 텍스트의 링크가 남아 있는 버그
