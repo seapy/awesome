@@ -134,3 +134,5 @@
   - 코드에서 만들 색상을 IB 색상표에서도 볼수 있어서 좋긴 한데 사용법이 친절하지가 않아서 아직 이해를 못함 ㅜㅜ
 - [SwiftGen](https://github.com/AliSoftware/SwiftGen)
   - 지역화 파일, UIImage, Storyboard 등을 자동으로 enum으로 만들어 줘서 코드 자동완성도 돕고 그런거
+- [VWInstantRun](https://github.com/wangshengjia/VWInstantRun)
+  - Xocde 에서 현재 선택한 부분을 플레바로 실행해준다. 마치 플레이 그라운드 처럼. 외부 라이브러리 까지 로딩되는지는 모르겠는데 되기만 하면 대박일듯. 플레이그라운드 연결하는거 엄청 복잡해서 이런게 필요했음
