@@ -55,6 +55,8 @@
 
 - [Shoyu](https://github.com/yukiasai/Shoyu)
   - UITableView 섹션이나 타입이 여러개일때 귀찮은 분기 코드를 줄여준다. [qiita 글](http://qiita.com/yukiasai/items/50c296599d30dd8de046)
+- [SwiftRefresher](https://github.com/morizotter/SwiftRefresher)
+  - UIRefreshControl을 대체. 테이블뷰 상단에 당겨서 새로고침을 해준다. 이거 iOS 기본거가 약간 이상해서 고려해볼만 할듯
 
 ## UILabel
 
