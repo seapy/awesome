@@ -45,6 +45,8 @@
 - [UIViewXXYBoom](https://github.com/xxycode/UIViewXXYBoom)
   - 뷰가 재미있게 없어지는 애니메이션 ~
   - ![UIViewXXYBoom](https://github.com/seapy/awesome/raw/master/iOS/assets/UIViewXXYBoom.gif)
+- [EasyAnimation](https://github.com/icanzilb/EasyAnimation)
+  - 애니메이션 코드를 짧고 간단하게 만들수 있다
 
 ## UIViewController
 
