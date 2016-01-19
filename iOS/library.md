@@ -63,6 +63,8 @@
 - [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel)
   - UILabel에 텍스트를 변경할때 재미있게 변경된다. UILabel에 확장은 아니고 상속받아서 구현한거
   - ![LTMorphingLabel](https://github.com/seapy/awesome/raw/master/iOS/assets/LTMorphingLabel.gif)
+- [ActiveLabel](https://github.com/optonaut/ActiveLabel.swift)
+  - Label에 해쉬태그, 멘션, URL 링크가 동작하도록 한다. 그냥 쓰기는 괜찮을텐데 sizefit이나 높이 구하는데 오류 없는지 확인이 필요. 직접 높이 계산하는데서 쓸수 있을지
   
 ## Navigation
 
