@@ -47,6 +47,8 @@
   - ![UIViewXXYBoom](https://github.com/seapy/awesome/raw/master/iOS/assets/UIViewXXYBoom.gif)
 - [EasyAnimation](https://github.com/icanzilb/EasyAnimation)
   - 애니메이션 코드를 짧고 간단하게 만들수 있다
+- [SAConfettiView](https://github.com/sudeepag/SAConfettiView)
+  - 화면에 꽃가루가 내린다
 
 ## UIViewController
 
