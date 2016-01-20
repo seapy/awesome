@@ -50,6 +50,11 @@
 - [SAConfettiView](https://github.com/sudeepag/SAConfettiView)
   - 화면에 꽃가루가 내린다
 
+## Loader
+
+- [FillableLoaders](https://github.com/poolqf/FillableLoaders)
+  - 로더들 별로 안좋아 하지만 이건 괜찮을듯. 기다리는게 심심하지 않게... 
+
 ## UIViewController
 
 - [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)
