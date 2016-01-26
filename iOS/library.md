@@ -80,6 +80,11 @@
 - [RNLoadingButton-Swift](https://github.com/souzainf3/RNLoadingButton-Swift)
   - 버튼 눌렀을때 로딩이 표시... 이런거 자주 써먹을데 있을듯
 
+## UITextView
+
+- [PlaceholderTextViewDemo](https://github.com/DigitalLeaves/PlaceholderTextViewDemo)
+  - IB에서도 오류 없이 잘된다. border 설정도 되고 좋음. cocoapods 지원안하는게 아쉽긴 한데 간단하니까 좋다
+
 ## Navigation
 
 - [RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation)
