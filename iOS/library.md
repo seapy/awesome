@@ -72,6 +72,11 @@
 - [SwiftRefresher](https://github.com/morizotter/SwiftRefresher)
   - UIRefreshControl을 대체. 테이블뷰 상단에 당겨서 새로고침을 해준다. 이거 iOS 기본거가 약간 이상해서 고려해볼만 할듯
 
+## UICollectionView
+
+- [StickyCollectionView](https://github.com/matbeich/StickyCollectionView)
+  - 컬렉션뷰인데 카드처럼 쌓이면서 덮어지는 방식
+
 ## UILabel
 
 - [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel)
