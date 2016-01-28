@@ -159,3 +159,6 @@
   - 지역화 파일, UIImage, Storyboard 등을 자동으로 enum으로 만들어 줘서 코드 자동완성도 돕고 그런거
 - [VWInstantRun](https://github.com/wangshengjia/VWInstantRun)
   - Xocde 에서 현재 선택한 부분을 플레바로 실행해준다. 마치 플레이 그라운드 처럼. 외부 라이브러리 까지 로딩되는지는 모르겠는데 되기만 하면 대박일듯. 플레이그라운드 연결하는거 엄청 복잡해서 이런게 필요했음
+- Swift 스타일 검사
+  - [SwiftLint](https://github.com/realm/SwiftLint), [tailor](https://github.com/sleekbyte/tailor)
+    - SwiftLint가 더 인기 있는것 같지만 tailor도 괜찮을듯? 둘다 brew로 설치하고 xcode 에 쉘스크립트로 등록하거나 별도로 실행하는 방식. swiftlint는 fastlane 액션이 있음! 
