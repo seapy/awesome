@@ -95,6 +95,11 @@
 - [PlaceholderTextViewDemo](https://github.com/DigitalLeaves/PlaceholderTextViewDemo)
   - IB에서도 오류 없이 잘된다. border 설정도 되고 좋음. cocoapods 지원안하는게 아쉽긴 한데 간단하니까 좋다
 
+## UITextField
+
+- [UITextField-Shake](https://github.com/andreamazz/UITextField-Shake)
+  - UITextField가 좌우로 흔들리는 애니메이션. 비번같은거 잘못 입력했을때 사용하기 좋겠다
+
 ## Navigation
 
 - [RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation)
