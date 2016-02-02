@@ -65,6 +65,10 @@
 - [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)
   - 좌우 스와이프로 여러개의 뷰 컨트롤러를 사용할 수 있다. 다양한 스타일 지원
 
+## TabBar
+
+- [ESTabBarController](https://github.com/ezescaruli/ESTabBarController)
+
 ## UITableView
 
 - [Shoyu](https://github.com/yukiasai/Shoyu)
