@@ -153,6 +153,8 @@
   - OS에 사용자 권한이 필요한 경우 사용자에게 현황과 권한을 얻는것을 관리
 - [R.swift](https://github.com/mac-cain13/R.swift) 
   - swift 에서 리소스를 안드로이드처럼 코드로 관리할 수 있다.
+- [SwiftDate](https://github.com/malcommac/SwiftDate)
+  - NSDate의 부족한점을 커버해준다. 비슷한걸로 DateTools
 
 ## 이미지 편집
 
