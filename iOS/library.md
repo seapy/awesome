@@ -69,6 +69,8 @@
 
 - [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)
   - 좌우 스와이프로 여러개의 뷰 컨트롤러를 사용할 수 있다. 다양한 스타일 지원
+- [STLBGVideo](https://github.com/StoneLeon/STLBGVideo)
+  - UIViewController 뒤에 비디오를 재생시킨다
 
 ## TabBar
 
