@@ -45,3 +45,8 @@ Alamofire.request(.GET, "https://httpbin.org/get", parameters: ["foo": "bar"])
         XCPlaygroundPage.currentPage.finishExecution() // 비동기 실행이 끝나고 나서 호출해야 한다. 안그러면 계속 돌고 있음
     }
 ```
+
+## UINavigationBar
+
+- 투명하게 하기
+  - 배경에 투명 이미지를 뚜는 방식으로 할수는 있다. [링크](http://stackoverflow.com/questions/2315862/make-uinavigationbar-transparent). 문제는 이게 글로벌로 적용되기 때문에 적용되는 화면을 나가는 시점과 다시 실행 했던 시점같은것들을 잘 체크해야지 안그러면 앱 전체의 네비바가 망가질수 있음
