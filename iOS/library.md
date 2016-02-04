@@ -185,6 +185,11 @@
 - [Gecco](https://github.com/yukiasai/Gecco)
   - 앱 사용방법을 화면에 포인트를 찍어가며 알려주는거
 
+## 키보드
+
+- [MMNumberKeyboard](https://github.com/matmartinez/MMNumberKeyboard)
+  - iOS 기본 숫자패드는 소수점을 입력 못하는데 이건 가능! 아이폰/아이패드 지원
+
 ## 개발도구
 
 - [Rainbow](https://github.com/onevcat/Rainbow)
