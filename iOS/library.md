@@ -180,6 +180,11 @@
 - [KKVerticalText](https://github.com/anthony1618/KKVerticalText)
   - 세로쓰기가 되는 라이브러리. 신기하다. iOS 8만 지원된다고 적혀있음
 
+## 앱 사용 설명
+
+- [Gecco](https://github.com/yukiasai/Gecco)
+  - 앱 사용방법을 화면에 포인트를 찍어가며 알려주는거
+
 ## 개발도구
 
 - [Rainbow](https://github.com/onevcat/Rainbow)
