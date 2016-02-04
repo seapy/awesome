@@ -111,6 +111,11 @@
 - [UITextField-Shake](https://github.com/andreamazz/UITextField-Shake)
   - UITextField가 좌우로 흔들리는 애니메이션. 비번같은거 잘못 입력했을때 사용하기 좋겠다
 
+## MenuItem
+
+- [MenuItemKit](https://github.com/cxa/MenuItemKit)
+  - 메뉴 아이템에 이미지를 사용할수 있게 하고 block 지원
+
 ## Navigation
 
 - [RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation)
