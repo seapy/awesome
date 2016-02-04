@@ -81,6 +81,11 @@
 - [StickyCollectionView](https://github.com/matbeich/StickyCollectionView)
   - 컬렉션뷰인데 카드처럼 쌓이면서 덮어지는 방식
 
+## UIScrollView
+
+- [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)
+  - 스크롤 하면 네비게이션바가 사라진다. [GTScrollNavigationBar](https://github.com/luugiathuy/GTScrollNavigationBar)도 있음
+
 ## UILabel
 
 - [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel)
