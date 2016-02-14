@@ -179,6 +179,8 @@
   - swift 에서 리소스를 안드로이드처럼 코드로 관리할 수 있다.
 - [SwiftDate](https://github.com/malcommac/SwiftDate)
   - NSDate의 부족한점을 커버해준다. 비슷한걸로 DateTools
+- [Scale](https://github.com/onmyway133/Scale)
+  - swift로 만들어진 단위 변환 라이브러리. 그런데 4.days 이런식으로도 쓸수 있다 유용!
 
 ## 이미지 편집
 
