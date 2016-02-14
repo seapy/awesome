@@ -135,6 +135,8 @@
   - attributed string 을 만들기 편하게 해준다. 
 - [Regex](https://github.com/sharplet/Regex)
   - swift 정규식 매칭 쉽게
+- [SwiftString](https://github.com/amayne/SwiftString)
+  - 자주 쓰는 문자열 다루는 메소드 모음. trim, capitalize..
 
 ## AutoLayout
 
