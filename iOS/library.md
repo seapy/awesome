@@ -224,3 +224,5 @@
     - SwiftLint가 더 인기 있는것 같지만 tailor도 괜찮을듯? 둘다 brew로 설치하고 xcode 에 쉘스크립트로 등록하거나 별도로 실행하는 방식. swiftlint는 fastlane 액션이 있음! 
 - [Knuff](https://github.com/KnuffApp/Knuff)
   - 맥에서 APNS(애플 푸쉬) 보내는 테스트 할때 유용한 앱
+- [ThisCouldBeUsButYouPlaying](https://github.com/neonichu/ThisCouldBeUsButYouPlaying)
+  - cocoapod 플러그인, pod 프로젝트를 포함한 상태의 플레이 그라운드를 만들어준다. 간단하게 cocoapod 사용법 확인하거나 할때 완전 유용할듯
