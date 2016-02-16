@@ -91,7 +91,7 @@
 ## UIScrollView
 
 - [TLYShyNavBar](https://github.com/telly/TLYShyNavBar)
-  - 스크롤 하면 네비게이션바가 사라진다. [GTScrollNavigationBar](https://github.com/luugiathuy/GTScrollNavigationBar)도 있음
+  - 스크롤 하면 네비게이션바가 사라진다. [GTScrollNavigationBar](https://github.com/luugiathuy/GTScrollNavigationBar)도, [RainbowNavigation](https://github.com/DanisFabric/RainbowNavigation) 있음
 
 ## UILabel
 
