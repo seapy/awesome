@@ -160,6 +160,11 @@
 - [Hue](https://github.com/hyperoslo/Hue)
   - 색상 헬퍼. 그라데이션 색상 쉽게 해주거나
 
+## 제스쳐, 이벤트
+
+- [Tactile](https://github.com/delba/Tactile)
+  - UIView, UIControl에 제스쳐를 쉽게 매핑
+
 ## Non UI 유틸리티
 
 - [AppVersionMonitor](https://github.com/muukii/AppVersionMonitor)
