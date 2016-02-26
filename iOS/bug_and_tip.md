@@ -8,7 +8,7 @@
   - Fastlane 에서 적용하려면 Gymfile에 다음과 같이 추가
     - `xcargs "IDEBuildOperationMaxNumberOfConcurrentCompileTasks=`sysctl -n hw.ncpu``
   - 실제 효과를 확인하려고 activity indicator로 봤을때 xcode에서는 효과를 못봤는데 fastlane으로 beta 빌드할때 보니 CPU를 모두 사용
-    - ![xcode multi core](https://github.com/seapy/awesome/raw/master/iOS/assets/xcode_multi_core.png)
+    - ![xcode multi core](https://github.com/seapy/awesome/raw/master/iOS/assets/xcode_multi_core.png | height=100)
     - 시작부분에 4개만 살짝 올라온 부분은 설정 적용전에 fastlane으로 alpha 빌드 했을때. 설정후 fastlane alpha 빌드하니 모든 CPU 사용
     - 실제 시간은 측정안해봤는데 별로 안빨라진것 같기도 하지만 CPU 로드가 다르니 빨라졌을거라고 예상
   - 이거 보면 iOS 개발자는 CPU 클럭 높고 갯수 많은거 쓸수록 시간단축 효과가 있을듯 ㅋㅋㅋ 맥프로 쓰면 어떨까 궁금 
