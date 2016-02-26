@@ -50,3 +50,25 @@ Alamofire.request(.GET, "https://httpbin.org/get", parameters: ["foo": "bar"])
 
 - 투명하게 하기
   - 배경에 투명 이미지를 뚜는 방식으로 할수는 있다. [링크](http://stackoverflow.com/questions/2315862/make-uinavigationbar-transparent). 문제는 이게 글로벌로 적용되기 때문에 적용되는 화면을 나가는 시점과 다시 실행 했던 시점같은것들을 잘 체크해야지 안그러면 앱 전체의 네비바가 망가질수 있음
+
+
+## 애니메이션
+
+- 애니메이션 효과
+  - 버튼 텍스트나 색상 바꿀때 그냥 바로 변경하지 않고 효과를 쉽게 줄 수 있다.
+  - https://littlebitesofcocoa.com/193-uiview-transition-basics
+```
+func flip() {
+  flipped = !flipped
+
+  UIView.transitionWithView(
+    button,
+    duration: 0.3,
+    options: .TransitionFlipFromTop,
+    animations: {
+      self.button.setTitle(self.flipped ? "👎🏻" : "👍🏻", forState: .Normal)
+    },
+    completion: nil
+  )
+}
+```
