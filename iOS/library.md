@@ -188,6 +188,8 @@
   - NSDate의 부족한점을 커버해준다. 비슷한걸로 DateTools
 - [Scale](https://github.com/onmyway133/Scale)
   - swift로 만들어진 단위 변환 라이브러리. 그런데 4.days 이런식으로도 쓸수 있다 유용!
+- [VersionTrackerSwift](https://github.com/tbaranes/VersionTrackerSwift)
+  - 해당 버전에서 처음으로 실행되었는지등을 확인하는 라이브러리
 
 ## 이미지 편집
 
