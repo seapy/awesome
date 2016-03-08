@@ -137,6 +137,8 @@
   - swift 정규식 매칭 쉽게
 - [SwiftString](https://github.com/amayne/SwiftString)
   - 자주 쓰는 문자열 다루는 메소드 모음. trim, capitalize..
+- [JNaturalKorean](https://github.com/trillione/JNaturalKorean)
+  - 한국어 조사를 알맞게 표시
 
 ## AutoLayout
 
