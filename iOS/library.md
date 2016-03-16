@@ -221,6 +221,8 @@
 
 - [Gecco](https://github.com/yukiasai/Gecco)
   - 앱 사용방법을 화면에 포인트를 찍어가며 알려주는거
+- [EAIntroView](https://github.com/ealeksandrov/EAIntroView)
+  - 엡 시작시 인트로
 
 ## 키보드
 
