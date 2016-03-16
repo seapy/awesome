@@ -11,6 +11,8 @@
   - 메시지 큐 지원!
   - 하단에 표시되는데 키보드가 올라와 있는경우에 대한 처리가 되는지 궁금
   - ![JLToast](https://github.com/seapy/awesome/raw/master/iOS/assets/jltoast.png)
+- [EZTextSpace](https://github.com/goktugyil/EZTextSpace)
+  - 알림은 아니지만 게임처럼 하단에 박스형태로 표시해주는거 재밌다
 
 ## 채팅
 
@@ -21,6 +23,8 @@
   - iOS 기본 메시지 스타일
 - [Chatto](https://github.com/badoo/Chatto)
 - [SwiftParseChat](https://github.com/huyouare/SwiftParseChat)
+- [TSWeChat](https://github.com/hilen/TSWeChat)
+  - WeChat을 swift로 구현한 샘플
 
 직접 만들때 도움이 될만한것
 
@@ -239,3 +243,9 @@
   - 맥에서 APNS(애플 푸쉬) 보내는 테스트 할때 유용한 앱
 - [ThisCouldBeUsButYouPlaying](https://github.com/neonichu/ThisCouldBeUsButYouPlaying)
   - cocoapod 플러그인, pod 프로젝트를 포함한 상태의 플레이 그라운드를 만들어준다. 간단하게 cocoapod 사용법 확인하거나 할때 완전 유용할듯
+- [GoOutside](https://github.com/dbgrandi/GoOutside)
+  - 최근 빌드 시간을 알려준다. 빌드 예상시간을 알수 있어서 좋네. 이름도 좋고
+- [Cichlid](https://github.com/dealforest/Cichlid)
+  - Xcode의 Drived Data를 자동으로 정리. Clean 할때 자동으로 해준다! 이건 좋네. fastlane 에서 clean 할때는 동작 안하겠지만. 대부분 Xcode 문제 발생하면 Clean 하는거 생각하면 괜찮은 동작
+- [watchdog](https://www.cerebralgardens.com/watchdog)
+  - Xcode의 Drived Data를 자동 및 수동으로 삭제. 별도 앱이라 설치가 편함. 마지막 업데이트가 너무 오래전이고 유료인건 아쉬움
