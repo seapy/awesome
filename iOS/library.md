@@ -10,7 +10,10 @@
   - 안드로이드 스타일의 Toast 표시
   - 메시지 큐 지원!
   - 하단에 표시되는데 키보드가 올라와 있는경우에 대한 처리가 되는지 궁금
+  - 이유는 모르겠는데 swift 기반 프로젝트에서 안뜸. obj-c는 안해봐서 모름
   - ![JLToast](https://github.com/seapy/awesome/raw/master/iOS/assets/jltoast.png)
+- [toast](https://github.com/scalessec/toast)
+  - 안드로이드 스타일 toast
 - [EZTextSpace](https://github.com/goktugyil/EZTextSpace)
   - 알림은 아니지만 게임처럼 하단에 박스형태로 표시해주는거 재밌다
 
