@@ -174,6 +174,21 @@
 - [Tactile](https://github.com/delba/Tactile)
   - UIView, UIControl에 제스쳐를 쉽게 매핑
 
+## 권한 관리
+
+- [PermissionScope](https://github.com/nickoneill/PermissionScope)
+  - OS에 사용자 권한이 필요한 경우 사용자에게 현황과 권한을 얻는것을 관리
+
+## 이미지 보기
+
+- [JTSImageViewController](https://github.com/jaredsinclair/JTSImageViewController)
+  - 이미지를 확대/축소 가능하게 하고 쉽게 닫을때 쓰는거
+
+## 사운드
+
+- [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer)
+  - 소리 재생하는걸 쉽게 해준다. 짧은 효과음에 사용
+
 ## Non UI 유틸리티
 
 - [AppVersionMonitor](https://github.com/muukii/AppVersionMonitor)
@@ -189,8 +204,6 @@
     - 사용방법이 마음에 든다. 다음에 이런식으로 사용하면 될듯
 - [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults)
   - NSUserDefaults를 쉽게 쓰게 하는 라이브러리. 비슷한것들이 많긴 한데 swift 에서는 이거인듯?
-- [PermissionScope](https://github.com/nickoneill/PermissionScope)
-  - OS에 사용자 권한이 필요한 경우 사용자에게 현황과 권한을 얻는것을 관리
 - [R.swift](https://github.com/mac-cain13/R.swift) 
   - swift 에서 리소스를 안드로이드처럼 코드로 관리할 수 있다.
 - [SwiftDate](https://github.com/malcommac/SwiftDate)
