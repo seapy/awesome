@@ -119,6 +119,8 @@
   - IB에서도 오류 없이 잘된다. border 설정도 되고 좋음. cocoapods 지원안하는게 아쉽긴 한데 간단하니까 좋다
 - [MBAutoGrowingTextView](https://github.com/MatejBalantic/MBAutoGrowingTextView)
   - 줄이 늘어남에 따라 자동으로 커지는 textview
+- [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView)
+  - 줄이 늘어남에 따라 자동으로 커지는 textview
 
 ## UITextField
 
