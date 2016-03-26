@@ -238,6 +238,8 @@
   - 앱 사용방법을 화면에 포인트를 찍어가며 알려주는거
 - [EAIntroView](https://github.com/ealeksandrov/EAIntroView)
   - 엡 시작시 인트로
+- [AlertOnboarding](https://github.com/PhilippeBoisney/AlertOnboarding)
+  - 팝업 형태로 뜨는거라 평소에 사용자에게 노출하기 좋을듯
 
 ## 키보드
 
