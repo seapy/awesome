@@ -180,6 +180,8 @@
 
 - [PermissionScope](https://github.com/nickoneill/PermissionScope)
   - OS에 사용자 권한이 필요한 경우 사용자에게 현황과 권한을 얻는것을 관리
+- [Permission](https://github.com/delba/Permission)
+  - 권한 체크. 최초에는 시스템 팝업, 거절한 이후에는 설정으로 가라는 팝업. 과도하지 않아서 좋네. 항상 구현하던건데
 
 ## 이미지 보기
 
