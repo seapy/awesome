@@ -236,6 +236,14 @@
 - [KKVerticalText](https://github.com/anthony1618/KKVerticalText)
   - 세로쓰기가 되는 라이브러리. 신기하다. iOS 8만 지원된다고 적혀있음
 
+## 스플래쉬 화면
+
+- [SKSplashView](https://github.com/sachinkesiraju/SKSplashView)
+- [CBZSplashView](https://github.com/callumboddy/CBZSplashView)
+- [LaunchScreenViewController](https://github.com/k06a/LaunchScreenViewController)
+- http://iosdevtips.co/post/88481653818/twitter-ios-app-bird-zoom-animation
+  - 심플하게 구현하는것에 대한 설명. 모든 화면에 항상 노출되므로 괜찮은 방법
+
 ## 앱 사용 설명
 
 - [Gecco](https://github.com/yukiasai/Gecco)
