@@ -247,14 +247,18 @@
 - http://iosdevtips.co/post/88481653818/twitter-ios-app-bird-zoom-animation
   - 심플하게 구현하는것에 대한 설명. 모든 화면에 항상 노출되므로 괜찮은 방법
 
-## 앱 사용 설명
+## 앱 사용 설명 / 가이드 / Walkthrough / 튜토리얼
 
 - [Gecco](https://github.com/yukiasai/Gecco)
   - 앱 사용방법을 화면에 포인트를 찍어가며 알려주는거
-- [EAIntroView](https://github.com/ealeksandrov/EAIntroView)
-  - 엡 시작시 인트로
 - [AlertOnboarding](https://github.com/PhilippeBoisney/AlertOnboarding)
   - 팝업 형태로 뜨는거라 평소에 사용자에게 노출하기 좋을듯
+- [EAIntroView](https://github.com/ealeksandrov/EAIntroView)
+  - 엡 시작시 스크롤 하면서 설명 보여주는 것 
+- [Presentation](https://github.com/hyperoslo/Presentation)
+  - 앱 시작시 스크롤 하면서 설명 보여주는 건데 애니메이션 및 parallax 스크롤 지원. 단점은 그냥 한방향으로 흘러가 버리는 애니메이션만 지원한다는거?
+- [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle)
+  - 앱 시작시 스크롤 하면서 설명 보여주는거. 미리 지정된 애니메이션이 있어서 사용하기 간단할듯?
 
 ## 키보드
 
