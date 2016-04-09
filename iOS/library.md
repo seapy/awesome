@@ -63,6 +63,8 @@
   - 화면에 꽃가루가 내린다
 - [NumberMorphView](https://github.com/me-abhinav/NumberMorphView)
   - 비행기 기다릴때 처럼 숫자가 접히면서 바뀐다
+- [JDAnimationKit](https://github.com/JellyDevelopment/JDAnimationKit)
+  - 애니메이션을 쉽게 처리하게 하는 라이브러리. facebook pop 라이브러리 기반. anchor point만 잘 적용되는거면 괜찮을듯... 
 
 ## Loader
 
