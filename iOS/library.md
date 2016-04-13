@@ -172,6 +172,8 @@
 
 - [TZStackView](https://github.com/tomvanzummeren/TZStackView), [OAStackView](https://github.com/oarrabi/OAStackView)
   - iOS 7,8 에서도 UIStackView 같은걸 사용할수 있게 
+- [Arranged](https://github.com/kean/Arranged)
+  - iOS 8+ 에서 UIStackView 사용할 수 있게
 
 ## UIColor
 
