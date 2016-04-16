@@ -13,3 +13,5 @@
   - Xcode 프로젝트에 Playground 적용하기. 잘 되는것도 같고 아닌것도 같고. 복잡하긴 하다.
 - [https://medium.com/ios-os-x-development/7-things-you-must-absolutely-do-before-writing-an-ios-app-a8bacf710c57#.t5kzsr2bt](7 Things you must absolutely do before writing an iOS app)
   - 초기 설정 및 구조 잡는데 도움이 되는 글
+- [Hipster Swift](http://krakendev.io/blog/hipster-swift)
+  - swift 에서 잘 안쓰는것 같은것들에 대해 설명. noescape 에 대한 설명이 유용했다
