@@ -127,6 +127,11 @@
 - [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox)
   - 체크박스에 애니메이션이 적용 됨
 
+## 이미지 선택
+이미지 피커라고 부르는 것들. imagepicker
+- [DKImagePickerController](https://github.com/zhangao0086/DKImagePickerController)
+  - 사진 기능 지원. 순서대로 선택 지원. 여러모로 괜찮아 보임
+
 ## UITextView
 
 - [PlaceholderTextViewDemo](https://github.com/DigitalLeaves/PlaceholderTextViewDemo)
