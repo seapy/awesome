@@ -132,6 +132,10 @@
 - [DKImagePickerController](https://github.com/zhangao0086/DKImagePickerController)
   - 사진 기능 지원. 순서대로 선택 지원. 여러모로 괜찮아 보임
 
+## 이미지 뷰어
+- [NYTPhotoViewer](https://github.com/NYTimes/NYTPhotoViewer)
+  - 이미지 확대등이 가능
+
 ## UITextView
 
 - [PlaceholderTextViewDemo](https://github.com/DigitalLeaves/PlaceholderTextViewDemo)
