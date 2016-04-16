@@ -148,7 +148,7 @@
 ## String
 
 - [BonMot](https://github.com/Raizlabs/BonMot)
-  - attributed string 을 만들기 편하게 해준다. 
+  - attributed string 을 만들기 편하게 해준다. 비슷한걸로 [TextAttributes](https://github.com/delba/TextAttributes)가 있다.
 - [Regex](https://github.com/sharplet/Regex)
   - swift 정규식 매칭 쉽게
 - [SwiftString](https://github.com/amayne/SwiftString)
