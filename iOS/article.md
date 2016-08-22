@@ -1,5 +1,10 @@
 # iOS 글 모음
 
+## 일반
+
+- [When to drop iOS 8](https://medium.com/@peter.lafferty/when-to-drop-ios-8-b2bd1edd3e91#.fvkpkgghh)
+  - 다음버전 iOS를 지원중단할때 좋은 자료가 될듯. 글쓴이는 iOS 8의 경우 iOS 10 발표하고 다음해 1월 예상
+
 ## 디자인
 
 - [너희들은 그렇게 햄버거 메뉴를 좋아하는 건가?(일본어)](http://qiita.com/usagimaru/items/930de80062bdae880630)
@@ -15,3 +20,8 @@
   - 초기 설정 및 구조 잡는데 도움이 되는 글
 - [Hipster Swift](http://krakendev.io/blog/hipster-swift)
   - swift 에서 잘 안쓰는것 같은것들에 대해 설명. noescape 에 대한 설명이 유용했다
+- [Upgrade your TableViews with Loading State](https://thatthinginswift.com/upgrade-tableview-loading-state/)
+  - 테이블뷰의 데이터 로딩 상태를 enum 이용해서 간단하게 구현
+  - [비슷한 글 Enum-Driven View Controllers](http://www.splinter.com.au/2016/01/03/enum-driven-viewcontrollers/)
+- [Creating and Distributing iOS Frameworks](https://www.raywenderlich.com/126365/ios-frameworks-tutorial)
+  - 프레임워크로 소스를 재활용하는 방법 소개. pod로 안만들고 그냥 나눠서 사용할때도 괜찮은 방법일듯
