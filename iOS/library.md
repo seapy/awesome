@@ -41,10 +41,12 @@
 - [TransitionTreasury](https://github.com/DianQK/TransitionTreasury)
   - 화면 전환할때 효과를 쉽게 사용할 수 있고 정의할 수 있다고 한다. 이거 필요한 경우 가끔 있었는데 ㅜㅜ 
 
-## 차트
+## 차트, 그래프
 
 - [ios-charts](https://github.com/danielgindi/ios-charts)
   - iOS 에서 차트를 그릴수 있다. MPAndroidChart 를 따라가는듯
+- [Scrollable-GraphView](https://github.com/philackm/Scrollable-GraphView)
+  - 간단하게 사용할 수 있을것 같은 예감?
 
 ## 재미 있는 애니메이션
 
@@ -80,6 +82,8 @@
   - UIViewController 뒤에 비디오를 재생시킨다
 - [TabPageViewController](https://github.com/EndouMari/TabPageViewController)
   - 안드로이드 스타일 상단 탭. 무제한 스크롤도 지원
+- [Presentr](https://github.com/icalialabs/Presentr)
+  - VC를 팝업으로 실행하거나 등등 유용할듯. 혹은 아래 절반이나 위에 절반에만 무언가를 보여줄때도 유용
 
 ## TabBar
 
@@ -127,8 +131,11 @@
   - 사진 기능 지원. 순서대로 선택 지원. 여러모로 괜찮아 보임
 
 ## 이미지 뷰어
+
 - [NYTPhotoViewer](https://github.com/NYTimes/NYTPhotoViewer)
   - 이미지 확대등이 가능
+- [PhotoSlider](https://github.com/nakajijapan/PhotoSlider)
+  - 이미지 확대나 좌우 슬라이드 하는거. 사용법이 간단해서 사용중
 
 ## UITextView
 
@@ -197,6 +204,8 @@
 - [Hue](https://github.com/hyperoslo/Hue)
   - 색상 헬퍼. 그라데이션 색상 쉽게 해주거나
 - [BCColor](https://github.com/boycechang/BCColor)
+- [UIImageColors](https://github.com/jathu/UIImageColors)
+  - 이미지에서 대표하는 하나의 색상을 추출
 
 ## 제스쳐, 이벤트
 
@@ -209,11 +218,6 @@
   - OS에 사용자 권한이 필요한 경우 사용자에게 현황과 권한을 얻는것을 관리
 - [Permission](https://github.com/delba/Permission)
   - 권한 체크. 최초에는 시스템 팝업, 거절한 이후에는 설정으로 가라는 팝업. 과도하지 않아서 좋네. 항상 구현하던건데
-
-## 이미지 보기
-
-- [JTSImageViewController](https://github.com/jaredsinclair/JTSImageViewController)
-  - 이미지를 확대/축소 가능하게 하고 쉽게 닫을때 쓰는거
 
 ## 사운드
 
