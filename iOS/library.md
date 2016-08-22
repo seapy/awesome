@@ -138,6 +138,8 @@
   - 줄이 늘어남에 따라 자동으로 커지는 textview
 - [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView)
   - 줄이 늘어남에 따라 자동으로 커지는 textview
+- [LinkTextView](https://github.com/WorldDownTown/LinkTextView)
+  - TextView에 링크를 적용하는 방법. NSAttributedString에 링크걸수 있는지 몰랐는데 여기서는 우선 그 방법에 문제가 있어서 그걸 해결한 버전을 만들었다고 공개. [블로그글](http://tech.vasily.jp/entry/ios_linktextview) 참고
 
 ## UITextField
 
