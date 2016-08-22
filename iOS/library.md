@@ -6,16 +6,10 @@
   - 앱이 실행중 알림을 표시. iOS 기본 알림, 상태바 대체, 네비게이션바 하단 3개의 스타일 제공
   - 메시지를 큐에 넣었다가 순차적으로 표시하지는 않는듯 하다
   - ![whisper](https://github.com/seapy/awesome/raw/master/iOS/assets/whisper.png)
-- [JLToast](https://github.com/devxoul/JLToast)
-  - 안드로이드 스타일의 Toast 표시
-  - 메시지 큐 지원!
-  - 하단에 표시되는데 키보드가 올라와 있는경우에 대한 처리가 되는지 궁금
-  - 이유는 모르겠는데 swift 기반 프로젝트에서 안뜸. obj-c는 안해봐서 모름
-  - ![JLToast](https://github.com/seapy/awesome/raw/master/iOS/assets/jltoast.png)
-- [toast](https://github.com/scalessec/toast)
-  - 안드로이드 스타일 toast
 - [EZTextSpace](https://github.com/goktugyil/EZTextSpace)
   - 알림은 아니지만 게임처럼 하단에 박스형태로 표시해주는거 재밌다
+- [CocoaBar](https://github.com/MerrickSapsford/CocoaBar)
+  - 안드로이드에서 스낵바라고 부르는 하단 알림 UI. 토스트 보다 보기도 좋고 액션도 추가되서 마음에 드는 형식인데 이걸 iOS용으로 구현한거
 
 ## 채팅
 
