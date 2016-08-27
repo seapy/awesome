@@ -22,6 +22,8 @@
 - [SwiftParseChat](https://github.com/huyouare/SwiftParseChat)
 - [TSWeChat](https://github.com/hilen/TSWeChat)
   - WeChat을 swift로 구현한 샘플
+- [NMessenger](https://github.com/eBay/NMessenger)
+  - swift로 되어 있고 필요한건 다 있는거 같지만 AsyncDisplaykit 으로 구현했다는데 그걸 잘 모르겠음
 
 직접 만들때 도움이 될만한것
 
