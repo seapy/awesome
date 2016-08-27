@@ -122,6 +122,11 @@
 - [RNLoadingButton-Swift](https://github.com/souzainf3/RNLoadingButton-Swift)
   - 버튼 눌렀을때 로딩이 표시... 이런거 자주 써먹을데 있을듯
 
+## 스티커
+
+- [JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView)
+  - 텍스트를 입력하고 이거 크기도 조절하고 움직이는거. 이미지에 스티커 붙이는 앱들이 많이 사용
+
 ## 그외 UI
 
 - [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox)
