@@ -10,6 +10,8 @@
   - 알림은 아니지만 게임처럼 하단에 박스형태로 표시해주는거 재밌다
 - [CocoaBar](https://github.com/MerrickSapsford/CocoaBar)
   - 안드로이드에서 스낵바라고 부르는 하단 알림 UI. 토스트 보다 보기도 좋고 액션도 추가되서 마음에 드는 형식인데 이걸 iOS용으로 구현한거
+- [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)
+  - 다양한 옵션이 있지만 정해진 포맷으로만 써야되나 싶기도 하고
 
 ## 채팅
 
