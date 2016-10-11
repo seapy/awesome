@@ -5,6 +5,10 @@
 - [When to drop iOS 8](https://medium.com/@peter.lafferty/when-to-drop-ios-8-b2bd1edd3e91#.fvkpkgghh)
   - 다음버전 iOS를 지원중단할때 좋은 자료가 될듯. 글쓴이는 iOS 8의 경우 iOS 10 발표하고 다음해 1월 예상
 
+## 마케팅
+
+- [푸시 알림이 앱 리텐션에 미치는 영향](https://www.appannie.com/kr/insights/mobile-strategy/can-push-notifications-really-help-app-retention/)
+
 ## 디자인
 
 - [너희들은 그렇게 햄버거 메뉴를 좋아하는 건가?(일본어)](http://qiita.com/usagimaru/items/930de80062bdae880630)
