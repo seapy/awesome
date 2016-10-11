@@ -8,6 +8,8 @@
 ## 마케팅
 
 - [푸시 알림이 앱 리텐션에 미치는 영향](https://www.appannie.com/kr/insights/mobile-strategy/can-push-notifications-really-help-app-retention/)
+- [iOS의 앱 이름 변경으로 ASO 전략을 재정비해야 하는 퍼블리셔들](https://www.appannie.com/kr/insights/aso-app-store-optimization/ios-app-name-changes-push-publishers-refine-aso-tactics/)
+- [키워드 전략 최적화를 통해서 ASO 개선하기](https://www.appannie.com/kr/insights/aso-app-store-optimization/how-to-improve-your-aso-app-store-optimization-by-maximizing-your-keyword-strategy/)
 
 ## 디자인
 
