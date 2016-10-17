@@ -303,7 +303,7 @@
 ## 로그
 
 - [CleanroomLogger](https://github.com/emaloney/CleanroomLogger)
-  - swift 로 만들었
+  - swift로 만들었고 gilt에서 잘 관리하는듯
 
 ## 개발도구
 
