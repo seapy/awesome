@@ -302,8 +302,10 @@
 
 ## 로그
 
+- [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)
+ - 오래되서 유명함
 - [CleanroomLogger](https://github.com/emaloney/CleanroomLogger)
-  - swift로 만들었고 gilt에서 잘 관리하는듯
+  - swift로 만들었고 gilt에서 잘 관리하는듯. cocoapod를 공식지원하지 않음
 
 ## 개발도구
 
