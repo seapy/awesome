@@ -44,6 +44,9 @@
 
 - [TransitionTreasury](https://github.com/DianQK/TransitionTreasury)
   - 화면 전환할때 효과를 쉽게 사용할 수 있고 정의할 수 있다고 한다. 이거 필요한 경우 가끔 있었는데 ㅜㅜ 
+- [PinterestSwift](https://github.com/demonnico/PinterestSwift)
+  - 커지는 효과 pinterest에서 사용하나봄
+
 
 ## 차트, 그래프
 
@@ -107,6 +110,8 @@
 
 - [StickyCollectionView](https://github.com/matbeich/StickyCollectionView)
   - 컬렉션뷰인데 카드처럼 쌓이면서 덮어지는 방식
+- [IGListKit](https://github.com/Instagram/IGListKit)
+  - 인스타그램이 만든 컬렉션뷰. 속도가 빠르다네
 
 ## UIScrollView
 
@@ -147,6 +152,11 @@
   - 이미지 확대등이 가능
 - [PhotoSlider](https://github.com/nakajijapan/PhotoSlider)
   - 이미지 확대나 좌우 슬라이드 하는거. 사용법이 간단해서 사용중
+  
+## UIImageView
+
+- [FaceAware](https://github.com/BeauNouvelle/FaceAware)
+  - 이미지의 얼굴 부분이 잘보이게 뷰를 이미지를 배치
 
 ## UITextView
 
@@ -312,6 +322,11 @@
  - 오래되서 유명함
 - [CleanroomLogger](https://github.com/emaloney/CleanroomLogger)
   - swift로 만들었고 gilt에서 잘 관리하는듯. cocoapod를 공식지원하지 않음
+
+## UI 일반 
+
+- [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS)
+  - 유튜브처럼 동영상을 우측하단에서 플레이하는거. 예제 
 
 ## 개발도구
 
