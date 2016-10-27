@@ -219,6 +219,8 @@
 - [BCColor](https://github.com/boycechang/BCColor)
 - [UIImageColors](https://github.com/jathu/UIImageColors)
   - 이미지에서 대표하는 하나의 색상을 추출
+- [ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView)
+  - 이미지에 어울리는 배경 그라데션 뷰를 만들어준다
 
 ## 제스쳐, 이벤트
 
