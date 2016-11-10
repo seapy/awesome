@@ -31,3 +31,5 @@
   - [비슷한 글 Enum-Driven View Controllers](http://www.splinter.com.au/2016/01/03/enum-driven-viewcontrollers/)
 - [Creating and Distributing iOS Frameworks](https://www.raywenderlich.com/126365/ios-frameworks-tutorial)
   - 프레임워크로 소스를 재활용하는 방법 소개. pod로 안만들고 그냥 나눠서 사용할때도 괜찮은 방법일듯
+- [How Not to Crash #1](http://blog.supertop.co/post/152615019837/how-not-to-crash-1)
+  - 크래시 리포트 보는것, 크래시 조심할것 등
