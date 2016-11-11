@@ -33,3 +33,12 @@
   - 프레임워크로 소스를 재활용하는 방법 소개. pod로 안만들고 그냥 나눠서 사용할때도 괜찮은 방법일듯
 - [How Not to Crash #1](http://blog.supertop.co/post/152615019837/how-not-to-crash-1)
   - 크래시 리포트 보는것, 크래시 조심할것 등
+
+## Swift 빌드 타임 관련
+
+- [Profiling your Swift compilation times](http://irace.me/swift-profiling)
+  - 빌드 타임이 느려질때 확인하는 방법. Xcode 빌드 확인창에서 보는거라 코드가 많고 프레임워크가 많으면 보기 힘들다
+- [BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode)
+  - 빌드 타임을 알 수 있게 해주는 플러그인. Xcode 8에서는 동작하지 않으므로 직접 빌드 해야됨
+- [Regarding Swift build time optimizations](https://medium.com/@RobertGummesson/regarding-swift-build-time-optimizations-fc92cdd91e31#.8izoid4we)
+  - 빌드 시간을 느리게 만드는 코딩에 대한 이야기. nil 체크, 배열 더하기, 삼항 연산자등이 있다. 그렇지만 안쓸수 없는것들...
