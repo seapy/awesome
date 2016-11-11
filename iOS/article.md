@@ -42,3 +42,6 @@
   - 빌드 타임을 알 수 있게 해주는 플러그인. Xcode 8에서는 동작하지 않으므로 직접 빌드 해야됨
 - [Regarding Swift build time optimizations](https://medium.com/@RobertGummesson/regarding-swift-build-time-optimizations-fc92cdd91e31#.8izoid4we)
   - 빌드 시간을 느리게 만드는 코딩에 대한 이야기. nil 체크, 배열 더하기, 삼항 연산자등이 있다. 그렇지만 안쓸수 없는것들...
+
+- 릴리즈 빌드시에는 Whole Module Optimization 을 이용해서 빌드 타임을 줄일수 있는거 같은데 Debug 에서는 기본이 안켜져 있다. 디버깅을 하지 못하기 때문인듯
+  - 클린빌드하고 테스트 할때는 큰 차이 없음. 아무래도 Xcode가 중간중간 꼬였을때 빌드가 느려지는거라... 이것 때문에는 큰 차이가 없을듯. 릴리즈에서는 좀 차이 있을거 같고
