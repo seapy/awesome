@@ -322,6 +322,8 @@
  - 오래되서 유명함
 - [CleanroomLogger](https://github.com/emaloney/CleanroomLogger)
   - swift로 만들었고 gilt에서 잘 관리하는듯. cocoapod를 공식지원하지 않음
+- [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver)
+  - 로그를 콘솔에 이쁘게 출력하고 클라우드에서도 확인 
 
 ## UI 일반 
 
