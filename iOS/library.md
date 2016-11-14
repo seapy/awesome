@@ -334,6 +334,11 @@
 
 - [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess)
 
+## Websocket
+
+- [starscream](https://github.com/daltoniam/starscream)
+  - 웹 소켓을 쉽게 사용하게 해주는 라이브러리. [튜토리얼](https://www.raywenderlich.com/143874/websockets-ios-starscream)
+
 ## 개발도구
 
 - [Rainbow](https://github.com/onevcat/Rainbow)
