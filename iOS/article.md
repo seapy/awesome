@@ -33,6 +33,11 @@
   - 프레임워크로 소스를 재활용하는 방법 소개. pod로 안만들고 그냥 나눠서 사용할때도 괜찮은 방법일듯
 - [How Not to Crash #1](http://blog.supertop.co/post/152615019837/how-not-to-crash-1)
   - 크래시 리포트 보는것, 크래시 조심할것 등
+  
+### 아키텍쳐
+
+- [Unidirectional Data Flow Architecture (Redux) in Swift](https://medium.com/swift-programming/unidirectional-data-flow-architecture-redux-in-swift-6fa2ed5c3c76#.8z3yfpq8y)
+  - flux 구현체인 redux 개념을 적용시킨 이야기. redux 구현체인 ReSwift 를 사용. 복잡해질수록 MVVM 보다 flux, redux 같은게 좋은것 같다
 
 ## Swift 빌드 타임 관련
 
