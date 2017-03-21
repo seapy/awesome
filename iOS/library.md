@@ -105,7 +105,9 @@
   - Enable Bitcode가 활성화 되있어야 된다. 활성화 되어 있지 않은 경우 앱스토어에 빌드 올리면 거기서만 실패함.
 - [SwiftRefresher](https://github.com/morizotter/SwiftRefresher)
   - UIRefreshControl을 대체. 테이블뷰 상단에 당겨서 새로고침을 해준다. 이거 iOS 기본거가 약간 이상해서 고려해볼만 할듯
-
+- [ReverseExtension](https://github.com/marty-suzuki/ReverseExtension)
+  - 테이블뷰의 셀이 추가될때 아래쪽부터 쌓이도록 하는 라이브러리. 채팅을 구현할때 유용함. 화면을 뒤집고 그안의 셀을 다시 뒤집는 방식이라 성능은 어떨지 
+  
 ## UICollectionView
 
 - [StickyCollectionView](https://github.com/matbeich/StickyCollectionView)
