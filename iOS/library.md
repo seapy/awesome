@@ -72,7 +72,9 @@
   - 애니메이션을 쉽게 처리하게 하는 라이브러리. facebook pop 라이브러리 기반. anchor point만 잘 적용되는거면 괜찮을듯... 
 - [YTXAnimations](https://github.com/baidao/YTXAnimations)
   - 흔들리거나 줌되는등 기본적인 애니메이션 사용할때 유용할듯
-
+- [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl)
+  - 여러 페이지가 있을때 페이지가 몇개인지 보여주는 PageControl 인데 애니메이션이 있음. 안드로이드 스타일도 있고 
+  
 ## Loader
 
 - [FillableLoaders](https://github.com/poolqf/FillableLoaders)
