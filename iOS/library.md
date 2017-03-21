@@ -372,3 +372,10 @@
   - Xcode의 Drived Data를 자동으로 정리. Clean 할때 자동으로 해준다! 이건 좋네. fastlane 에서 clean 할때는 동작 안하겠지만. 대부분 Xcode 문제 발생하면 Clean 하는거 생각하면 괜찮은 동작
 - [watchdog](https://www.cerebralgardens.com/watchdog)
   - Xcode의 Drived Data를 자동 및 수동으로 삭제. 별도 앱이라 설치가 편함. 마지막 업데이트가 너무 오래전이고 유료인건 아쉬움
+
+## 디버깅
+
+- [GDPerformanceView-Swift](https://github.com/dani-gavrilov/GDPerformanceView-Swift)
+  - 상태바에 frame rate(fps), cpu, 앱버전, os 버전등의 정보를 보여준다
+- [WatchdogInspector](https://github.com/tapwork/WatchdogInspector)
+  - 상태바를 가리고 FPS(frame rate)를 보여줌. 지나간 fps도 보여준다
