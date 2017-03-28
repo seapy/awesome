@@ -379,3 +379,5 @@
   - 상태바에 frame rate(fps), cpu, 앱버전, os 버전등의 정보를 보여준다
 - [WatchdogInspector](https://github.com/tapwork/WatchdogInspector)
   - 상태바를 가리고 FPS(frame rate)를 보여줌. 지나간 fps도 보여준다
+- [GodEye](https://github.com/zixun/GodEye)
+  - 로그, 크래시등을 앱 안에서 보여줌
