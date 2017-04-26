@@ -179,6 +179,8 @@
 
 - [UITextField-Shake](https://github.com/andreamazz/UITextField-Shake)
   - UITextField가 좌우로 흔들리는 애니메이션. 비번같은거 잘못 입력했을때 사용하기 좋겠다
+- [UITextField-TextOffsetFix](https://github.com/Kofktu/UITextField-TextOffsetFix)
+  - 텍스트 필드에 텍스트 입력하기 시작하면 아래로 내려가는 현상 수정. iOS 10 에서만 그랬던가 9도 그랬던거 같고 기억이 안남
 
 ## MenuItem
 
