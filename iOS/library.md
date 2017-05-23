@@ -349,6 +349,11 @@
 - [starscream](https://github.com/daltoniam/starscream)
   - 웹 소켓을 쉽게 사용하게 해주는 라이브러리. [튜토리얼](https://www.raywenderlich.com/143874/websockets-ios-starscream)
 
+## 광고
+
+- [CPAdManager-iOS](https://github.com/yoonhg84/CPAdManager-iOS)
+  - 페이스북 광고, 애드몹 광고를 동시에 사용할때 유용
+
 ## 개발도구
 
 - [Rainbow](https://github.com/onevcat/Rainbow)
@@ -389,3 +394,9 @@
 
 - appiconizer(https://appiconizer.com/)
   - 앱 아이콘을 사이즈 별로 생성
+
+## 한국 개발자들이 만든거
+음 중복으로 쓰겠지만 마크다운 이걸로 어떻게 해야될지 모르겠다
+
+- [CPAdManager-iOS](https://github.com/yoonhg84/CPAdManager-iOS)
+  - 페이스북 광고, 애드몹 광고를 동시에 사용할때 유용
